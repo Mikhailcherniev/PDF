@@ -1,6 +1,6 @@
 var pdf = require("html-pdf");
 
-var nomeDoAluno = "Diego";
+var nomeDoAluno = "Micael";
 var curso = "Desenvolvimento de Sistemas";
 var materias = [
   { nome: "Programação Web", nota: 9 },
